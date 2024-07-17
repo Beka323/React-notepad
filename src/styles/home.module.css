@@ -1,0 +1,60 @@
+.noteBox{
+ margin:40px 5px 0 5px;
+}
+.note{
+  border-radius:5px;
+  margin:9px 0;
+  padding:10px 5px;
+  border:0.7px solid #cacaca;
+  box-shadow:0px 0px 2px #000;
+}
+.note h4{
+  margin:10px 5px;
+}
+.note p{
+  margin:10px 5px;
+  font-size:14px;
+}
+.note button{
+  border-radius:3px;
+  font-weight:600;
+  font-size:12px;
+  margin:0 5px;
+  padding:3px 19px;
+  font-style:italic;
+}
+.view {
+  background-color:#fff;
+  color:#000;
+  border:1.3px solid #000;
+}
+.trash{
+   background-color:#ff1d1d;
+  color:#FFF;
+  border:1.3px solid #5f0000;
+}
+.trash:hover,
+.trash:active{
+  background-color:#fff;
+  color:#ff1d1d;
+  border:1.3px solid #5f0000;
+}
+.view:hover,
+.view:focus,
+.view:active{
+  background-color:#000;
+  color:#Fff;
+  border:1.3px solid #000;
+}
+.favorite{
+  background-color:#78facc;
+  color:#FFF;
+  border:1.3px solid #00e492;
+}
+.favorite:hover,
+.favorite:focus,
+.favorite:active{
+  background-color:#fff;
+  color:#78facc;
+  border:1.3px solid #00754b;
+}

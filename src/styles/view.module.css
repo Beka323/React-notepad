@@ -1,0 +1,22 @@
+.noteBox{
+  margin:15px 5px;
+}
+.note{
+  margin:9px 0;
+}
+.note h4{
+  margin:5px 0;
+}
+.note p{
+  text-align:justify;
+  margin:5px 0;
+  width:100%;
+}
+.note button{
+   margin:10px 0;
+ padding:4px 30px;
+ background-color:#00d70d;
+ color:#fff;
+ border-radius:3px;
+ border:1.3px solid #005105;
+}

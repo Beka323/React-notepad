@@ -1,0 +1,31 @@
+.noteBox{
+  margin:40px 5px 0 5px;
+}
+.note{
+  border-radius:5px;
+  margin:9px 5px;
+  padding:10px 5px;
+  border:0.7px solid #cacaca;
+  box-shadow:0px 0px 2px #000;
+}
+.note h4{
+  margin:5px 0;
+}
+.note p{
+  margin:5px 0;
+}
+.note button{
+  margin:8px 8px;
+  padding:4px 25px;
+  border-radius:3px;
+}
+.restore{
+ background-color:#00d70d;
+ color:#fff;
+ border:1.3px solid #005105; 
+}
+.delete{
+background-color:#d40000;
+ color:#fff;
+ border:1.3px solid #570000; 
+}

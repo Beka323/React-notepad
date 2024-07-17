@@ -1,0 +1,30 @@
+.form {
+  padding:10px;
+}
+.form label{
+  margin-top:15px;
+}
+.form input{
+  padding:5px 4px;
+  width:100%;
+}
+.form input,
+.form textarea{
+  margin:10px 0;
+  border:none;
+  outline:none;
+  border-radius:8px;
+  background-color:#e2e2e2;
+}
+.form textarea{
+  padding:10px 8px;
+  width:100%;
+}
+.form button{
+ margin:10px 0;
+ padding:4px 30px;
+ background-color:#00d70d;
+ color:#fff;
+ border-radius:3px;
+ border:1.3px solid #005105;
+}
