@@ -12,7 +12,7 @@ const initialState = {
     favorite: []
 };
 
-export const noteSlice = createSlice({
+ const noteSlice = createSlice({
     name: "Note",
     initialState,
     reducers: {
@@ -60,3 +60,4 @@ export const noteSlice = createSlice({
     }
 });
 export const { addNote,addToTrash,addToFavorite,restoreTrash,deleteTrash,editNote,removeFavorite} = noteSlice.actions;
+export default noteSlice.reducer
